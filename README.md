@@ -651,7 +651,7 @@ Further resources:
 * [Hypothesis Tests](https://github.com/JuliaStats/HypothesisTests.jl) - Hypothesis tests for Julia.
 * [Gadfly](https://github.com/GiovineItalia/Gadfly.jl) - Crafty statistical graphics for Julia.
 * [Stats](https://github.com/JuliaStats/StatsKit.jl) - Statistical tests for Julia.
-* [RDataSets](https://github.com/johnmyleswhite/RDatasets.jl) - Julia package for loading many of the data sets available in R.
+* [RDataSets](https://github.com/johnmyleswhite/RDatasets.jl) - 
 * [DataFrames](https://github.com/JuliaData/DataFrames.jl) - library for working with tabular data in Julia.
 * [Distributions](https://github.com/JuliaStats/Distributions.jl) - A Julia package for probability distributions and associated functions.
 * [Data Arrays](https://github.com/JuliaStats/DataArrays.jl) - Data structures that allow missing values. **[Deprecated]**
