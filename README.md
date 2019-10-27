@@ -23,7 +23,7 @@ Further resources:
 ### Frameworks and Libraries
 <!-- MarkdownTOC depth=4 -->
 
-- [Awesome Machine Learning ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-machine-learning-awesomehttpsgithubcomsindresorhusawesome)
+- [BLA-BLA-BLA ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-machine-learning-awesomehttpsgithubcomsindresorhusawesome)
   - [Table of Contents](#table-of-contents)
     - [Frameworks and Libraries](#frameworks-and-libraries)
     - [Tools](#tools)
