@@ -35,7 +35,7 @@ Further resources:
   - [C++](#c)
       - [Computer Vision](#computer-vision-1)
       - [General-Purpose Machine Learning](#general-purpose-machine-learning-2)
-      - [Natural Language Processing](#natural-language-processing)
+      - [SHUT UP AND TAKE MY MONEY](#natural-language-processing)
       - [Speech Recognition](#speech-recognition)
       - [Sequence Analysis](#sequence-analysis)
       - [Gesture Detection](#gesture-detection)
