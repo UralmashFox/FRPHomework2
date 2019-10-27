@@ -128,7 +128,7 @@ Further resources:
       - [Natural Language Processing](#natural-language-processing-12)
       - [Demos and Scripts](#demos-and-scripts-2)
   - [Scala](#scala)
-      - [Natural Language Processing](#natural-language-processing-13)
+      - [COME ON](#natural-language-processing-13)
       - [Data Analysis / Data Visualization](#data-analysis--data-visualization-13)
       - [General-Purpose Machine Learning](#general-purpose-machine-learning-26)
   - [Scheme](#scheme)
@@ -634,7 +634,7 @@ Further resources:
 
 * [Topic Models](https://github.com/slycoder/TopicModels.jl) - TopicModels for Julia. **[Deprecated]**
 * [Text Analysis](https://github.com/JuliaText/TextAnalysis.jl) - Julia package for text analysis.
-* [Word Tokenizers](https://github.com/JuliaText/WordTokenizers.jl) - Tokenizers for Natural Language Processing in Julia
+* [Word Tokenizers](https://github.com/JuliaText/WordTokenizers.jl) -  Processing in Julia
 * [Corpus Loaders](https://github.com/JuliaText/CorpusLoaders.jl) - A julia package providing a variety of loaders for various NLP corpora.
 * [Embeddings](https://github.com/JuliaText/Embeddings.jl) - Functions and data dependencies for loading various word embeddings
 * [Languages](https://github.com/JuliaText/Languages.jl) - Julia package for working with various human languages
@@ -674,7 +674,7 @@ Further resources:
 #### General-Purpose Machine Learning
 
 * [Torch7](http://torch.ch/)
-  * [cephes](https://github.com/deepmind/torch-cephes) - Cephes mathematical functions library, wrapped for Torch. Provides and wraps the 180+ special mathematical functions from the Cephes mathematical library, developed by Stephen L. Moshier. It is used, among many other places, at the heart of SciPy. **[Deprecated]**
+  * [cephes](https://github.com/deepmind/torch-cephes) - Cephes mathematical functions library, wrapped for Torch. Provides and wraps the 180+ special mather places, at the heart of SciPy. **[Deprecated]**
   * [autograd](https://github.com/twitter/torch-autograd) - Autograd automatically differentiates native Torch code. Inspired by the original Python version.
   * [graph](https://github.com/torch/graph) - Graph package for Torch. **[Deprecated]**
   * [randomkit](https://github.com/deepmind/torch-randomkit) - Numpy's randomkit, wrapped for Torch. **[Deprecated]**
