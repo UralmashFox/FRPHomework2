@@ -128,7 +128,7 @@ Further resources:
       - [Natural Language Processing](#natural-language-processing-12)
       - [Demos and Scripts](#demos-and-scripts-2)
   - [Scala](#scala)
-      - [Natural Language Processing](#natural-language-processing-13)
+      - [COME ON](#natural-language-processing-13)
       - [Data Analysis / Data Visualization](#data-analysis--data-visualization-13)
       - [General-Purpose Machine Learning](#general-purpose-machine-learning-26)
   - [Scheme](#scheme)
