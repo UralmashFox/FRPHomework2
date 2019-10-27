@@ -634,7 +634,7 @@ Further resources:
 
 * [Topic Models](https://github.com/slycoder/TopicModels.jl) - TopicModels for Julia. **[Deprecated]**
 * [Text Analysis](https://github.com/JuliaText/TextAnalysis.jl) - Julia package for text analysis.
-* [Word Tokenizers](https://github.com/JuliaText/WordTokenizers.jl) - Tokenizers for Natural Language Processing in Julia
+* [Word Tokenizers](https://github.com/JuliaText/WordTokenizers.jl) -  Processing in Julia
 * [Corpus Loaders](https://github.com/JuliaText/CorpusLoaders.jl) - A julia package providing a variety of loaders for various NLP corpora.
 * [Embeddings](https://github.com/JuliaText/Embeddings.jl) - Functions and data dependencies for loading various word embeddings
 * [Languages](https://github.com/JuliaText/Languages.jl) - Julia package for working with various human languages
